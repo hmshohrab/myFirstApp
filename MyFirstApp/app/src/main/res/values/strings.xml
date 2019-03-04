@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+    <string name="HI">HI....</string>
+    <string name="b1">1</string>
+    <string name="b2">2</string>
+    <string name="b3">3</string>
+    <string name="b4">4</string>
+
+
+</resources>
